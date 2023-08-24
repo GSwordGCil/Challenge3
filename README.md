@@ -1,0 +1,1 @@
+In this challenge, I modify the javascript file script.js to prompt users for password generation criterias and generate a password for them.
